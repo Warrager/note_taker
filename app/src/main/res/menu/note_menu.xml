@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:Pluralsight="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="@string/add_note"
+        android:id="@+id/add_note"
+        android:showAsAction="always|withText"
+        Pluralsight:showAsAction="always"
+        android:visible="true" />
+</menu>

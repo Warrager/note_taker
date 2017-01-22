@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pluralsight</string>
+    <string name="greeting">Hello</string>
+    <string name="menu_settings">Menu</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="add_note">Add Note</string>
+</resources>
